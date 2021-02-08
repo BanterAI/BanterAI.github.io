@@ -1,3 +1,4 @@
+
 html {
     min-height: 100%;
 }
@@ -7,4 +8,10 @@ body {
     background: -moz-linear-gradient(#619bff, #c9eefa);
     background: linear-gradient(#4fbfe2, #5772fa);
     background-color: #5581cd;
+    font-family: Segoe UI,
+    Frutiger,
+    Frutiger Linotype,
+    Dejavu Sans,
+    Helvetica Neue,
+    Arial,sans-serif;;
 }
